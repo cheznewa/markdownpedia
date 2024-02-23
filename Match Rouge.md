@@ -6,4 +6,4 @@ L'avant Dernier Jour De La Session Depuis Le 35e Foitierre La Barre Peut Passer 
 ## L'argent Gagner
 Pour Le Nombre De Pièces Gagner, La Barre Est Mis Au Carré Multiplier Par La Mise Du Joueur Et Tiré Au Sort, Sa Mise Est Confidentiel.
 ## La Plus Grosse Somme Gagner
-La Somme A Ete Remporté A Gagner 1.4 Millards De Pièces
+La Session A Durée 50 Jours, La Somme A Gagner Est De 1.4 Millards De Pièces
